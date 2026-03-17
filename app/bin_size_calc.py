@@ -1,4 +1,3 @@
-from app.bin_size_calc import calc_bin_size
 import pandas as pd
 from pathlib import Path
 
